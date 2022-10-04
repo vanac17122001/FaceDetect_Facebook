@@ -5,9 +5,9 @@
 #### Các bước chạy project :
 <div>
 <p>
-<h3>Tiến hành chạy file GetImageFromVideo.py ở folder Buoc1 để lấy các ảnh từ video</h3>
-<h3>Tiến hành chạy file Training.py ở folder Buoc2 tiến hành training model. Quá trình training sẽ tạo ra file svc.pkl</h3>
-<h3>Sau đó copy file svc.pkl vào folde Buoc3</h3>
-<h3>Chạy file svr_model.py để start web</h3>
+<h5>Tiến hành chạy file GetImageFromVideo.py ở folder Buoc1 để lấy các ảnh từ video</h5>
+<h5>Tiến hành chạy file Training.py ở folder Buoc2 tiến hành training model. Quá trình training sẽ tạo ra file svc.pkl</h5>
+<h5>Sau đó copy file svc.pkl vào folde Buoc3</h5>
+<h5>Chạy file svr_model.py để start web</h5>
 </p>
 </div>
