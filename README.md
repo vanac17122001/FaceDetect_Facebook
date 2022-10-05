@@ -11,3 +11,13 @@
 <h5>Chạy file svr_model.py để start web</h5>
 </p>
 </div>
+<div>
+**Hướng dẫn sử dụng web nhận diện**
+
+<h5>Giao diện của trang web</h5>
+<img src="test/giao_dien_web.png"/>
+<h5>**Bước 1** : Nhấn vào nút "Chọn file ảnh để nhận diện" sau đó chọn ảnh cần nhận diện</h5>
+<img src="test/chon_image.png"/>
+<h5>**Bước 2** : Kết quả nhận diện sẽ được hiển thị ngay bên dưới</h5>
+<img src="test/ket_qua_nhan_dien.png"/>
+</div>
