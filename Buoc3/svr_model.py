@@ -34,8 +34,8 @@ recognizer = cv2.FaceRecognizerSF.create(
 
 svc = joblib.load('svc.pkl')
 # mydict = ['BanNinh','BanThanh','ThayDuc']
-mydict = ['BanAnh','BanBao','BanDien','BanDuc','BanDuong','BanHoa','BanHung','BanKy','BanLoc',
-    'BanNam','BanNinh','BanPhi','BanQuocDuong','BanQuyetThang','BanSang','BanThang','BanThanh','BanTin','BanToan','ThayDuc']
+mydict = ['BanAnh','BanBao','BanDien','BanDuc','BanDuong','BanGiang','BanHoa','BanHung','BanKy','BanLoc',
+    'BanNam','BanNinh','BanPhi','BanQuocDuong','BanQuyetThang','BanSang','BanThang','BanThanh','BanTin','BanToan','BanVan','ThayDuc']
 
 # Hàm xử lý request
 @app.route("/", methods=['GET', 'POST'])
