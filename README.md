@@ -9,7 +9,7 @@
 
 **Bước 2 :** Tiến hành chạy file Training.py ở folder Buoc2 tiến hành training model. Quá trình training sẽ tạo ra file svc.pkl
 
-**Bước 3 :** Sau đó copy file svc.pkl vào folde Buoc3
+**Bước 3 :** Sau đó copy file svc.pkl vào folder Buoc3
 
 **Bước 4 :** Chạy file svr_model.py để start web
 </div>
